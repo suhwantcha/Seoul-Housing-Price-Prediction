@@ -12,13 +12,7 @@ We:
 
 ## 2. Repository Structure
 
-├── data/
-│ ├── seoul_real_estate.csv # Original Seoul real estate transaction dataset
-│ ├── submission.csv # Test data with empty target column
-├── preprocessing_estate.ipynb # Preprocessing training data
-├── preprocessing_submission.ipynb # Preprocessing test/submission data
-├── model.ipynb # Model training, validation, prediction
-└── README.md
+``` ├── data/ │ ├── seoul_real_estate.csv # Original Seoul real estate transaction dataset │ ├── submission.csv # Test data with empty target column ├── preprocessing_estate.ipynb # Preprocessing training data ├── preprocessing_submission.ipynb # Preprocessing test/submission data ├── model.ipynb # Model training, validation, prediction └── README.md ```
 
 
 ---
